@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# VS Code files
+.vscode/
+.vs/
+
+# Build output
+*.o
+*.obj
+*.ilk
+*.pdb
+*.dll
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+
+# Temporary files
+*.log
+*~
